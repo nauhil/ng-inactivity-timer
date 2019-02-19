@@ -1,0 +1,43 @@
+{
+  "name": "ng-inactivity-timer",
+  "version": "0.7.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nauhil/ng-inactivity-timer"
+  },
+  "bugs": {
+    "email": "wispster@gmail.com",
+    "url": "https://github.com/phl3x0r/angular-libraries/issues"
+  },
+  "author": {
+    "name": "Niklas Hegnelt",
+    "email": "wispster@gmail.com",
+    "url": "https://github.com/phl3x0r"
+  },
+  "description": "A service for monitoring and reacting to user inactivity",
+  "keywords": [
+    "angular",
+    "inactivity",
+    "timer",
+    "inactivity-timer",
+    "timeout"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "^7.0.0-rc.0 || ^7.0.0",
+    "rxjs": "^6.0.0"
+  },
+  "main": "bundles/ng-inactivity-timer.umd.js",
+  "module": "fesm5/ng-inactivity-timer.js",
+  "es2015": "fesm2015/ng-inactivity-timer.js",
+  "esm5": "esm5/ng-inactivity-timer.js",
+  "esm2015": "esm2015/ng-inactivity-timer.js",
+  "fesm5": "fesm5/ng-inactivity-timer.js",
+  "fesm2015": "fesm2015/ng-inactivity-timer.js",
+  "typings": "ng-inactivity-timer.d.ts",
+  "metadata": "ng-inactivity-timer.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

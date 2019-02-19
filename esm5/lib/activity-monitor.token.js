@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+import { InjectionToken } from '@angular/core';
+/** @type {?} */
+export var ACTIVITY_MONITOR = new InjectionToken('Activity Monitor');
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWN0aXZpdHktbW9uaXRvci50b2tlbi5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLWluYWN0aXZpdHktdGltZXIvIiwic291cmNlcyI6WyJsaWIvYWN0aXZpdHktbW9uaXRvci50b2tlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLGNBQWMsRUFBRSxNQUFNLGVBQWUsQ0FBQzs7QUFHL0MsTUFBTSxLQUFPLGdCQUFnQixHQUFHLElBQUksY0FBYyxDQUNoRCxrQkFBa0IsQ0FDbkIiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJbmplY3Rpb25Ub2tlbiB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuaW1wb3J0IHsgQWN0aXZpdHlNb25pdG9yIH0gZnJvbSAnLi9hY3Rpdml0eS1tb25pdG9yLmludGVyZmFjZSc7XG5cbmV4cG9ydCBjb25zdCBBQ1RJVklUWV9NT05JVE9SID0gbmV3IEluamVjdGlvblRva2VuPEFjdGl2aXR5TW9uaXRvcj4oXG4gICdBY3Rpdml0eSBNb25pdG9yJ1xuKTtcbiJdfQ==
