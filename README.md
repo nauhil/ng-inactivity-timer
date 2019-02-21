@@ -11,14 +11,14 @@ Install the package by running
 
 ## Usage
 
-### Provide a configuration for the service (numbers are in seconds):
+### Provide a configuration for the service (numbers are in minutes):
 
 ```typescript
 {
   provide: INACTIVITY_CONFIG,
   useValue: <InactivityConfig>{
-    inactivityTime: 900,
-    warningTime: 120
+    inactivityTime: 10,
+    warningTime: 10
   }
 }
 ```
